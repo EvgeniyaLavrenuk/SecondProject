@@ -1,0 +1,8 @@
+Типы данных Python
+
+int - целые числа
+float - дробные числа
+str - строки
+bool - True / False
+
+print() - вывод, input() - ввод
